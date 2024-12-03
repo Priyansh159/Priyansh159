@@ -4,7 +4,7 @@
 
 	•	🔭 Aspiring Web Developer passionate about creating responsive and dynamic web applications.
 	•	🐍 Building automation scripts and projects with Python
-	•	🎯 Building automation scripts and projects with Python
+	•	🎯 Solving problems, writing clean code, and building creative web projects
  
 
 🌱 What I’m Up To
@@ -22,8 +22,8 @@
 ### 🌱 Connect with Me  
 🌐 [Portfolio](https://priyansh159.github.io/portfolio/) <br>  
 💼 [LinkedIn](https://www.linkedin.com/in/priyansh159/) <br>  
-✉️ [Email]: (priyanshrana159@gmail.com) <br>  
-💻 [LeetCode](https://leetcode.com/u/Priyansh159/)
+💻 [LeetCode](https://leetcode.com/u/Priyansh159/) <br>  
+✉️ priyanshrana159@gmail.com
 
 
 
