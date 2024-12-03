@@ -21,7 +21,7 @@
 
 🔗 Connect with Me
 
-•	🌍 Portfolio: (https://priyansh159.github.io/portfolio/)
-•	💼 LinkedIn: https://www.linkedin.com/in/priyansh159/
-•	📧 Email: priyanshrana159@gmail.com 
-•	💻 Leetcode: https://leetcode.com/u/Priyansh159/
+🌍 Portfolio: (https://priyansh159.github.io/portfolio/)
+💼 LinkedIn: https://www.linkedin.com/in/priyansh159/
+📧 Email: priyanshrana159@gmail.com 
+💻 Leetcode: https://leetcode.com/u/Priyansh159/
