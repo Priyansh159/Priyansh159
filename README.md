@@ -19,12 +19,12 @@
 	•	Advance Python libraries
 	•	Mastering front-end frameworks for enhanced UI/UX
 
-### 🌱 Connect with Me  
-🌐 [Portfolio](https://priyansh159.github.io/portfolio/) <br>  
-💼 [LinkedIn](https://www.linkedin.com/in/priyansh159/) <br>  
-💻 [LeetCode](https://leetcode.com/u/Priyansh159/) <br>  
-✉️ priyanshrana159@gmail.com
+ 🌱 Connect with Me  
+ 🌐 [Portfolio](https://priyansh159.github.io/portfolio/) <br>  
+ 💼 [LinkedIn](https://www.linkedin.com/in/priyansh159/) <br>  
+ 💻 [LeetCode](https://leetcode.com/u/Priyansh159/) <br>  
+ ✉️ priyanshrana159@gmail.com
 
 
 
-💬 “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+###💬 “Code is like humor. When you have to explain it, it’s bad.” — Cory House
