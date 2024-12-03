@@ -22,7 +22,7 @@
 ### 🌱 Connect with Me  
 🌐 [Portfolio](https://priyansh159.github.io/portfolio/) <br>  
 💼 [LinkedIn](https://www.linkedin.com/in/priyansh159/) <br>  
-✉️ Email: priyanshrana159@gmail.com <br>  
+✉️ [Email]: (priyanshrana159@gmail.com) <br>  
 💻 [LeetCode](https://leetcode.com/u/Priyansh159/)
 
 
