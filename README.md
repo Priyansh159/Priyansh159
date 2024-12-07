@@ -20,7 +20,7 @@
 	•	Mastering front-end frameworks for enhanced UI/UX
 
  🌱 Connect with Me  <br>
- 🌐 [Portfolio](https://priyansh159.github.io/portfolio/) <br>  
+ 🌐 [Portfolio](https://portflio2-0.vercel.app/)<br>  
  💼 [LinkedIn](https://www.linkedin.com/in/priyansh159/) <br>  
  💻 [LeetCode](https://leetcode.com/u/Priyansh159/) <br>  
  ✉️ priyanshrana159@gmail.com <br>
