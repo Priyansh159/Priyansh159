@@ -6,7 +6,6 @@
 • 🌐 Strong Frontend Developer specializing in React & TypeScript  
 • 🧠 Problem solver who enjoys building scalable, user-friendly applications  
 • 🛠 Experienced in API integration, UI/UX development, and debugging  
-• 🐍 Python developer with experience in automation and advanced libraries  
 
 ---
 
