@@ -23,11 +23,10 @@ DAMRF is a large-scale digital transformation project for **APMC (Agricultural P
 Earlier, all verification and approvals were done **offline using paper forms**.  
 We migrated the complete workflow to an **online system**, improving efficiency, transparency, and tracking.
 
-**Approval Hierarchy Includes:**  
-• Junior Clerk  
-• Cooperative Marketing Officer  
-• District Registrar  
-• Director  
+**Approval Hierarchy Flow:**
+
+Junior Clerk (JC) → Cooperative Officer Marketing (COM) → District Registrar (DR) →  
+Senior Clerk → HOS (High Office Superintendent) → Deputy Director (DD) → Director
 
 **Sub-Modules in DAMRF:**  
 • Contract Farming  
@@ -35,8 +34,8 @@ We migrated the complete workflow to an **online system**, improving efficiency,
 • GCA  
 • Trader Module  
 • Panel Management  
-• Schemes  
-• Online Forms & Verification System  
+• Schemes (According to Yards & Subyards)
+• Forms (18)
 
 **My Responsibilities:**  
 • Frontend development using React & TypeScript  
