@@ -2,27 +2,90 @@
 
 🚀 About Me
 
-	•	🔭 Aspiring Web Developer passionate about creating responsive and dynamic web applications.
-	•	🐍 Building automation scripts and projects with Python
-	•	🎯 Solving problems, writing clean code, and building creative web projects
- 
+• 👨‍💻 Software Development Engineer – I (SDE-1) with hands-on industry experience  
+• 🌐 Strong Frontend Developer specializing in React & TypeScript  
+• 🧠 Problem solver who enjoys building scalable, user-friendly applications  
+• 🛠 Experienced in API integration, UI/UX development, and debugging  
+• 🐍 Python developer with experience in automation and advanced libraries  
 
-🌱 What I’m Up To
+---
 
-	•	🌐 Building projects using HTML, CSS, JavaScript, and exploring frontend frameworks like React.
-	•	📚 Enhancing my skills in backend development with Node.js and Express.
-	•	🛠 Exploring Data Structures and Algorithms to strengthen core programming concepts.
+🏢 Professional Experience
 
- 🌱 Currently Learning:
+**Software Development Engineer – I (SDE-1)**  
+📍 **SCL, Meerut**  
+🗓 **Joined:** 2 June 2025 (Full-time)
 
-	•	Advanced Data Structures with C/C++
-	•	Advance Python libraries
-	•	Mastering front-end frameworks for enhanced UI/UX
+🔹 **Current Project:** **DAMRF – Government of Gujarat**  
+📅 **Duration:** Feb 2025 – Jan 2026  
 
- 🌱 Connect with Me  <br>
- 🌐 [Portfolio](https://portflio2-0.vercel.app/)<br>  
- 💼 [LinkedIn](https://www.linkedin.com/in/priyansh159/) <br>  
- 💻 [LeetCode](https://leetcode.com/u/Priyansh159/) <br>  
- ✉️ priyanshrana159@gmail.com <br>
+**Project Overview:**  
+DAMRF is a large-scale digital transformation project for **APMC (Agricultural Produce Market Committees)**.  
+Earlier, all verification and approvals were done **offline using paper forms**.  
+We migrated the complete workflow to an **online system**, improving efficiency, transparency, and tracking.
 
-💬 “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+**Approval Hierarchy Includes:**  
+• Junior Clerk  
+• Cooperative Marketing Officer  
+• District Registrar  
+• Director  
+
+**Sub-Modules in DAMRF:**  
+• Contract Farming  
+• MIS Data Input  
+• GCA  
+• Trader Module  
+• Panel Management  
+• Schemes  
+• Online Forms & Verification System  
+
+**My Responsibilities:**  
+• Frontend development using React & TypeScript  
+• API integration and state management  
+• UI/UX design and enhancement  
+• Debugging, performance optimization, and issue fixing  
+• Coordinating with backend teams for smooth integration  
+
+> While my primary focus is frontend, I also have solid backend understanding and hands-on experience.
+
+---
+
+🧠 Tech Stack & Skills
+
+**Frontend:**  
+• React.js  
+• TypeScript  
+• JavaScript (ES6+)  
+• HTML5, CSS3  
+• UI/UX Design Principles  
+
+**Backend:**  
+• Node.js  
+• Express.js  
+• MySQL  
+• CouchDB  
+
+**DevOps & Tools:**  
+• Git & GitHub  
+• Microsoft Azure DevOps  
+• REST APIs  
+• Postman  
+
+**Programming Languages:**  
+• JavaScript  
+• TypeScript  
+• Python  
+• C / C++  
+
+---
+
+🌐 Connect With Me
+
+🌐 Portfolio: https://portflio2-0.vercel.app/  
+💼 LinkedIn: https://www.linkedin.com/in/priyansh159/  
+💻 LeetCode: https://leetcode.com/u/Priyansh159/  
+✉️ Email: priyanshrana159@gmail.com  
+
+---
+
+💬 *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
